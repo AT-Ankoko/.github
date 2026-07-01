@@ -158,12 +158,19 @@ DoQ 서비스는 확장성과 실시간성을 위해 **레이어드 아키텍처
 <!-- 관련 링크 -->
 ## 📝 관련 링크
 
-#### GitHub Repository
-* [https://github.com/AT-Ankoko](https://github.com/AT-Ankoko) 
+### Results
+- **소스 코드 저장소 (GitHub)**: https://github.com/AT-Ankoko
+- **DoQ 작품 소개 영상**: https://youtu.be/JgfBLpiZuZk
+- **DoQ 프로젝트 최종 보고서**: https://github.com/AT-Ankoko/.github/blob/main/캡스톤1_DoQ_최종보고서.pdf
+- **정적 목업 결과물**: https://at-ankoko.github.io/doq-mocksite
 
-#### Technical Notes
-* [LLM 인터페이스 설계 전략](https://wavicle.tistory.com/21)
-* [시나리오 기반 테스트 자동화](https://wavicle.tistory.com/616)
+### Technical Notes
+- [LLM 인터페이스 설계 및 모듈화 전략](https://wavicle.tistory.com/21)
+- [LLM 정량평가하기(1)](https://wavicle.tistory.com/19)
+- [LLM 정량평가하기(2) - 시나리오 기반의 AI 챗봇 테스트 자동화](https://wavicle.tistory.com/37)
+- [LLM 정량평가하기(3) - 시스템 로깅 및 AI agent 활용](https://wavicle.tistory.com/38)
+- [LLM 활용 프로토타이핑(1) - 서비스 기획을 위한 정적 목업 구축](https://wavicle.tistory.com/42)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
